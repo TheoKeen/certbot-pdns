@@ -8,8 +8,9 @@ WORKDIR /opt/certbot
 
 ARG BUILD_DEPENDENCIES="build-base \
     libffi-dev \
-    py3-pip \
-    py3-cryptography"
+    python3-dev \
+    openssl-dev \
+    py3-pip"
 
 ENV LC_ALL=en_US.UTF-8 \
     LANG=en_US.UTF-8 \
