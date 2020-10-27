@@ -6,7 +6,7 @@ cffi==1.14.0
 chardet==3.0.4
 ConfigArgParse==1.2.3
 configobj==5.0.6
-cryptography==2.9.2
+cryptography==3.2
 distro==1.5.0
 dns-lexicon==3.3.24
 dnspython==1.16.0
