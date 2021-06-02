@@ -25,7 +25,7 @@ requests-file==1.5.1
 requests-toolbelt==0.9.1
 six==1.15.0
 tldextract==2.2.2
-urllib3==1.25.9
+urllib3==1.26.5
 zope.component==4.6.1
 zope.deferredimport==4.3.1
 zope.deprecation==4.4.0
